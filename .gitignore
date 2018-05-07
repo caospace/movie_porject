@@ -1,0 +1,7 @@
+/.idea/
+# Python
+*.pyc
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
